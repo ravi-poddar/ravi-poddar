@@ -28,7 +28,7 @@
 <br />
 
 ---
-<img align="left" alt="Ravi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Ravi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ravi-poddar&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/_RaviPoddar
 [instagram]: https://www.instagram.com/_ravi_poddar/

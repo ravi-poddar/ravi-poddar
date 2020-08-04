@@ -1,9 +1,8 @@
 ### Hi there, I'm Ravi Kumar 👋
 
 ## I'm a Student and Web Developer!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to do competitive coding and front-end web development
+- 🥅 2020 Goals: To learn about UI and UX designs
+- ⚡ I love to do competitive coding and front-end web development
 
 ### Connect with me:
 [<img align="left" alt="ravikumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

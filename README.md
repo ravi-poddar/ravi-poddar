@@ -1,7 +1,7 @@
 ### Hi there, I'm Ravi Kumar 👋
 
-## I'm a Student and Web Developer!
-- ⚡ I love to do competitive coding and web development
+## I'm a Software Developer!
+- ⚡ I love to do frontend and backend stuff
 
 ### Connect with me:
 [<img align="left" alt="ravikumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -26,7 +26,7 @@
 <br />
 
 ---
-<> <img align="left" alt="Ravi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ravi-poddar&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="Ravi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ravi-poddar&show_icons=true&hide_border=true" />  -->
 
 [twitter]: https://twitter.com/_RaviPoddar
 [instagram]: https://www.instagram.com/_ravi_poddar/
